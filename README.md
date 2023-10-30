@@ -1,3 +1,2 @@
-# PERSONAL PROFILE CARD
-# DEVELOPED USING HTML AND CSS.
-# DESIGN IS RESPONSIVE.
+# MY PROJECTS
+# All these projects have been developed while learning HTML, CSS, JS
