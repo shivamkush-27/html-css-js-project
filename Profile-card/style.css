@@ -13,6 +13,7 @@ body{
     align-items: center;
     background-color: #f4f4f4;
     width: 100vw;
+    user-select: none;
 }
 .profile-card{
     display: flex;
