@@ -1,15 +1,5 @@
 # MY PROJECTS
 # All these projects have been developed while learning HTML, CSS, JS
-<!doctype html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-</body>
-</html>
+<a href="https://sikandaraja.github.io/html-css-js-project/Profile-card/" style="font-size:2em;">Profile Card</a>
+<hr>
+<a href="https://sikandaraja.github.io/html-css-js-project/simple-calculator/" style="font-size:2em;">Simple Calculator</a>
